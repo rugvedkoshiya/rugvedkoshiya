@@ -21,8 +21,6 @@
 <img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/photoshop_48.svg" alt="Photoshop" width="48" height="48"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rugvedkoshiya&hide=Jupyter Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact" alt="Rugved Koshiya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rugvedkoshiya&show_icons=true&theme=tokyonight&locale=en" alt="Rugved Koshiy" /></p>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rugvedkoshiya&theme=dark)
+| ![Rugved GitHub Statistics](https://github-readme-stats.vercel.app/api?username=rugvedkoshiya&show_icons=true&theme=tokyonight&locale=en) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rugvedkoshiya&hide=Jupyter%20Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact) |
+| --- | --- |
+| ![Rugved GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rugvedkoshiya&theme=dark) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
