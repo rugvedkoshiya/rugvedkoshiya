@@ -23,4 +23,4 @@
 
 | ![Rugved GitHub Statistics](https://github-readme-stats.vercel.app/api?username=rugvedkoshiya&show_icons=true&theme=tokyonight&locale=en) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rugvedkoshiya&hide=Jupyter%20Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact) |
 | --- | --- |
-| ![Rugved GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rugvedkoshiya&theme=dark) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+| ![Rugved GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rugvedkoshiya&theme=dark) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=material-palenight) |
