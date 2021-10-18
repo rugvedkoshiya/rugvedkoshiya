@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rugved Koshiya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rugvedkoshiya&label=Profile%20views&color=0e75b6&style=plastic" alt="xditya" /> </p>
 
-<h3 align="left">What I use:</h3>
+<h3 align="left">Known Technology:</h3>
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/c_48.svg" alt="C Language" width="48" height="48"/>
