@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Rugved Koshiya 🔓</h1>
 
-### 👨🏻‍💻 About Me
----
+## 👨🏻‍💻 About Me
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=rugvedkoshiya&label=Profile%20views&color=05122A&style=plastic" alt="Profile views" />
 </p>
@@ -11,8 +10,7 @@ I like to
 - Develop software solutions, tools and quick hacks
 - Hunting bugs
 
-### 🛠 Known
----
+## 🛠 Known
 #### Languages
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
@@ -60,14 +58,12 @@ I like to
 ![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)&nbsp;
 ![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-05122A?style=flat&logo=hackthebox)&nbsp;
 
-### ⚙️ GitHub Analytics
----
+## ⚙️ GitHub Analytics
 | ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=rugvedkoshiya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ddd7&hide_border=false&border_color=FFFFFF) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rugvedkoshiya&layout=compact&hide=handlebars&theme=algolia&bg_color=0D1117&hide_border=false&&title_color=00ddd7&border_color=FFFFFF) |
 | --- | --- |
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rugvedkoshiya&theme=dark&background=0D1117&hide_border=&border_color=FFFFFF&ring=00DDD7&fire=00DDD7&stroke=F1F1F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00DDD7&dates=CACACA) | ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%230D1117&borderColor=%23FFFFFF&qColor=%2300DDD7&aColor=%23FFFFFF&codeColor=%232BD18F) |
 
-### 🤝🏻 Connect with Me
----
+## 🤝🏻 Connect with Me
 <p align="left">
     <a href="https://www.linkedin.com/in/rugvedkoshiya/" target="_blank">
         <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=linkedin"/>
