@@ -31,7 +31,7 @@ I like to
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 
 #### Servers
-![ngrok](https://img.shields.io/badge/-ngrock-05122A?style=flat&logo=ngrok)&nbsp;
+![nginx](https://img.shields.io/badge/-nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-05122A?style=flat&logo=gunicorn)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-05122A?style=flat&logo=microsoftazure)&nbsp;
