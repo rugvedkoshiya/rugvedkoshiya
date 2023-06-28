@@ -6,6 +6,7 @@
 </p>
 
 I like to
+- System design
 - Explore new technologies
 - Develop software solutions, tools and quick hacks
 - Hunting bugs
@@ -19,16 +20,19 @@ I like to
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 
 #### Frameworks
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=flat&logo=strapi)&nbsp;
 
 #### Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
+![Mac](https://img.shields.io/badge/-Mac-05122A?style=flat&logo=apple)&nbsp;
 
 #### Servers
 ![nginx](https://img.shields.io/badge/-nginx-05122A?style=flat&logo=nginx)&nbsp;
@@ -52,9 +56,11 @@ I like to
 ![OpenSSL](https://img.shields.io/badge/-OpenSSL-05122A?style=flat&logo=openssl)&nbsp;
 ![Let's Encrypt](https://img.shields.io/badge/-Let%27s%20Encrypt-05122A?style=flat&logo=letsencrypt)&nbsp;
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Jinja](https://img.shields.io/badge/-Jinja-05122A?style=flat&logo=jinja)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Swegger](https://img.shields.io/badge/-Swegger-05122A?style=flat&logo=swagger)&nbsp;
 ![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)&nbsp;
 ![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-05122A?style=flat&logo=hackthebox)&nbsp;
