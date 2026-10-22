@@ -17,14 +17,24 @@ I like to
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=dotnet)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 
 #### Frameworks
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat&logo=dotnet)&nbsp;
+![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-05122A?style=flat&logo=dotnet)&nbsp;
+![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor)&nbsp;
+![SignalR](https://img.shields.io/badge/-SignalR-05122A?style=flat)&nbsp;
+![gRPC](https://img.shields.io/badge/-gRPC-05122A?style=flat)&nbsp;
+![xUnit](https://img.shields.io/badge/-xUnit-05122A?style=flat)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
@@ -48,8 +58,19 @@ I like to
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Helm](https://img.shields.io/badge/-Helm-05122A?style=flat&logo=helm)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-05122A?style=flat&logo=gitlab)&nbsp;
+![FluxCD](https://img.shields.io/badge/-FluxCD-05122A?style=flat&logo=flux)&nbsp;
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-05122A?style=flat&logo=opentelemetry)&nbsp;
 
 #### Database
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat)&nbsp;
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?style=flat)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![DocumentDB](https://img.shields.io/badge/-DocumentDB-05122A?style=flat&logo=documentdb)&nbsp;
